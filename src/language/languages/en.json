@@ -1,0 +1,149 @@
+﻿{
+  "login_page": {
+    "big_title": "Sign in",
+    "mail_input": "Enter your Mail Account",
+    "password_input": "Enter your password",
+    "login_button": "LOGIN",
+    "forgot_password": "I don't remember my password. To change it",
+    "forgot_password_bold": "click",
+    "button2": "New Account",
+    "button2_text": "Don't have an account? Let's open it now",
+    "login_error": "Required fields must be filled."
+
+  },
+  "forgot_password_page": {
+    "mail_account_input": "Enter your Mail Account",
+    "old_password_input": "Enter your old password",
+    "new_password_input": "Enter your new password",
+    "fill_inputs_error": {
+      "title": "Error",
+      "text": "Fill in the required spaces."
+    },
+    "success": "Your password has been updated successfully",
+    "sumbit": "Send"
+  },
+  "money_unit": "₺",
+  "spinner": "processing ...",
+  "home_page": {
+    "account_record": {
+      "title": "Account registration",
+      "text": "Would you like to save your account on the phone?",
+      "cancel": "Cancel",
+      "ok": "I agree"
+    },
+    "information_page": {
+      "product_type_number": "Your product type.",
+      "total_product_number": "Your total number of products",
+      "total_request_number": "Total number of requests"
+    },
+    "product_list": {
+      "empty_list": "There is no product to display on the system.",
+      "status1": "Decreasing",
+      "status2": "Not available",
+      "status3": "In stock"
+
+    },
+    "register_product": {
+      "name_label": "Name",
+      "name_input": "Product name",
+      "summary_label": "Description",
+      "summary_input": "Enter an optional description.",
+      "price_label": "Price",
+      "price_input": "Product value",
+      "amount_label": "Amount",
+      "amount_input": "Enter an optional item amount.",
+      "price_text": "Price",
+      "sumbit_button": "Send",
+      "cancel_button": "Cancel",
+      "error": "Name and price information must be entered",
+      "success": "Your password has been updated successfully",
+      "unsuccessful": "Unsuccessful"
+    },
+    "qr_page": {
+      "small_qr_error": "You have read an incorrect qr code"
+    }
+  },
+  "product_page": {
+    "remaining": "remaining",
+    "remaining_text_1": "Remaining in storage",
+    "remaining_text_2": "count",
+    "sold": "Sold",
+    "sold_text_1": "Removed from storage",
+    "sold_text_2": "number",
+    "price": "Price",
+    "price_text": "market value",
+    "add": "Add",
+    "add_text": "One product is added",
+    "add_many": "Add",
+    "add_many_text": "More than one product is added",
+    "remove": "Remove",
+    "remove_text": "Removes one product",
+    "remove_many": "Remove",
+    "remove_many_text": "Removes multiple products",
+    "order": "Order",
+    "order_text": "Request to be collected",
+    "delete": "Remove Product",
+    "delete_text": "Removed from the product list permanently",
+    "add_warning": {
+      "title": "Add",
+      "text": "Your request to add will be processed in the system. Do you confirm.",
+      "cancel": "Cancel",
+      "accept": "You agree"
+    },
+    "add_many_warning": {
+      "title": "Add product",
+      "text": "It will add the number of products you enter into the system.",
+      "input": "Number of products to add",
+      "cancel": "Cancel",
+      "sumbit": "Send"
+    },
+    "remove_warning": {
+      "title": "Add",
+      "text": "Your request to add will be processed in the system. Do you confirm.",
+      "cancel": "Cancel",
+      "accept": "You agree"
+    },
+    "remove_many_warning": {
+      "title": "Add product",
+      "text": "It will add the number of products you enter into the system.",
+      "input": "Number of products to add",
+      "cancel": "Cancel",
+      "sumbit": "Send"
+    },
+    "delete_warning": {
+      "title": "Warning",
+      "text": "will be deleted. Are you playing?",
+      "cancel": "Cancel",
+      "accept": "I accept."
+    }
+  },
+  "order_page": {
+    "product_label": "Product",
+    "user_label": "Owner",
+    "company_label": "Company",
+    "name_label": "Name",
+    "name_input": "Product name",
+    "summary_label": "Description",
+    "summary_input": "Enter an optional description.",
+    "amount_label": "Amount",
+    "amount_input": "Enter amount of product.",
+    "price_text": "Price",
+    "sumbit_button": "Send",
+    "cancel_button": "Cancel",
+    "error": "Item quantity must be entered"
+  },
+  "network_connection": {
+    "title": "Connection error",
+    "text": "Your Internet connection does not appear. Connect to the Internet and try again."
+  },
+  "profile_page": {
+    "number_text": "Mobile Number",
+    "mail_text": "Mail Account"
+  },
+  "drawer": {
+    "home": "Main Page",
+    "profile": "Profile",
+    "company": "Company",
+    "logOut": "Logout"
+  }
+}

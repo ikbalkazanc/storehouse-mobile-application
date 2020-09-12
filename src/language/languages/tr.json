@@ -1,0 +1,148 @@
+{
+  "login_page": {
+    "big_title": "Giriş Yap",
+    "mail_input": "Mail Hesabınızı giriniz",
+    "password_input": "Şifrenizi giriniz",
+    "login_button": "GİRİŞ YAP  ",
+    "forgot_password": "Şifremi hatırlamıyorum. Değiştirmek için ",
+    "forgot_password_bold": "tıklayınız",
+    "button2": "Yeni Hesap",
+    "button2_text": "Hesabınız yokmu? Hemen açalım",
+    "login_error": "Zorunlu alanlar doldurulmalıdır."
+     
+  },
+  "forgot_password_page": {
+    "mail_account_input": "Mail Hesabınızı giriniz",
+    "old_password_input": "Eski şifrenizi giriniz",
+    "new_password_input": "Yeni şifrenizi giriniz",
+    "fill_inputs_error": {
+      "title": "Hata",
+      "text": "Gerekli boşlukları doldurunuz."
+    },
+    "success": "Şifreniz başarı ile güncellendi",
+    "sumbit": "Gönder"
+  },
+  "money_unit": "₺",
+  "spinner": "işleniyor...",
+  "home_page": {
+    "account_record": {
+      "title": "Hesap kaydı",
+      "text": "Hesabınızı telefona kaydetmek ister misiniz?",
+      "cancel": "İptal",
+      "ok": "Kabul Ediyorum"
+    },
+    "information_page": {
+      "product_type_number": "Ürün çeşidiniz.",
+      "total_product_number": "Toplam ürün sayınız",
+      "total_request_number": "Toplam istek sayınız"
+    },
+    "product_list": {
+      "empty_list": "Sistemde gösterilecek bir ürün bulunamadı.",
+      "status1": "Azalıyor",
+      "status2": "Yok",
+      "status3": "Stokta"
+    },
+    "register_product": {
+      "name_label": "İsim",
+      "name_input": "Ürün ismi",
+      "summary_label": "Açıklama",
+      "summary_input": "İsteğe bağlı açıklama giriniz.",
+      "price_label": "Fiyat",
+      "price_input": "Ürün değeri",
+      "amount_label": "Miktar",
+      "amount_input": "İsteğe bağlı ürün miktarı giriniz.",
+      "price_text": "Ücret",
+      "sumbit_button": "Gönder",
+      "cancel_button": "Vazgeç",
+      "error": "İsim ve fiyat bilgilerinin girilmesi zorunludur",
+      "success": "Şifreniz başarı ile güncellendi",
+      "unsuccessful": "Başarısız"
+    },
+    "qr_page": {
+      "small_qr_error": "Hatalı qr kod okuttunuz"
+    }
+  },
+  "product_page": {
+    "remaining": "Kalan",
+    "remaining_text_1": "Depoda kalan ",
+    "remaining_text_2": " sayısı",
+    "sold": "Satılan",
+    "sold_text_1": "Depodan çıkartılan ",
+    "sold_text_2": " sayısı",
+    "price": "Fiyat",
+    "price_text": " pazar değeri",
+    "add": "Ekle",
+    "add_text": "Bir adet ürün eklenir",
+    "add_many": "Ekle",
+    "add_many_text": "Birden fazla ürün eklenir",
+    "remove": "Çıkar",
+    "remove_text": "Bir adet ürün çıkartır",
+    "remove_many": "Çıkar",
+    "remove_many_text": "Birden fazla ürün çıkartır",
+    "order": "Şipariş ver",
+    "order_text": "Alınması üzere talep et",
+    "delete": "Ürünü Kaldır",
+    "delete_text": "Ürün listesinden temelli kaldırılır",
+    "add_warning": {
+      "title": "Ekle",
+      "text": " ekleme isteğiniz sisteme işlenecektir onaylıyormusunuz.",
+      "cancel": "Iptal",
+      "accept": "Kabul ediyorun"
+    },
+    "add_many_warning": {
+      "title": "Ürün ekleme",
+      "text": "Giriceğiniz ürün sayısını sisteme ekleyecektir.",
+      "input": "Eklenecek ürün sayısı",
+      "cancel": "Vazgeç",
+      "sumbit": "Gönder"
+    },
+    "remove_warning": {
+      "title": "Ekle",
+      "text": " ekleme isteğiniz sisteme işlenecektir onaylıyormusunuz.",
+      "cancel": "Iptal",
+      "accept": "Kabul ediyorun"
+    },
+    "remove_many_warning": {
+      "title": "Ürün ekleme",
+      "text": "Giriceğiniz ürün sayısını sisteme ekleyecektir.",
+      "input": "Eklenecek ürün sayısı",
+      "cancel": "Vazgeç",
+      "sumbit": "Gönder"
+    },
+    "delete_warning": {
+      "title": "Uyarı",
+      "text": " ürünü silinicektir. Oynaylıyor musunuz?",
+      "cancel": "İptal",
+      "accept": "Kabul ediyorum."
+    }
+  },
+  "order_page": {
+    "product_label": "Ürün ",
+    "user_label": "Sahibi ",
+    "company_label": "Firma",
+    "name_label": "İsim",
+    "name_input": "Ürün ismi",
+    "summary_label": "Açıklama",
+    "summary_input": "İsteğe bağlı açıklama giriniz.",
+    "amount_label": "Miktar",
+    "amount_input": "Ürün miktarı giriniz.",
+    "price_text": "Ücret",
+    "sumbit_button": "Gönder",
+    "cancel_button": "Vazgeç",
+    "error": "Ürün miktarı girilmesi zorunludur"
+  },
+  "network_connection": {
+    "title": "Bağlantı hatası",
+    "text": "Internet bağlantınız gözümüküyor. İnternete bağlanıp tekrar deneyiniz."
+  },
+  "profile_page": {
+    "number_text": "Cep Numarası",
+    "mail_text": "Mail Hesabı"
+  },
+  "drawer": {
+    "home": "Ana Ssayfa",
+    "profile": "Profil",
+    "company": "Firma",
+    "logOut": "Çıkış"
+  }
+}
